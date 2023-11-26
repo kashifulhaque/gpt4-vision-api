@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> Based off of [digitros' started code](https://github.com/digitros/nextjs-fastapi)
+> Based off of [digitros' starter code](https://github.com/digitros/nextjs-fastapi)
 
 ### **Bring your own OpenAI API key** 🔐
 Get your own key [here](https://platform.openai.com)
