@@ -4,7 +4,7 @@
     <h3 align="center">Next.js FastAPI OpenAI GPT-4 Vision API</h3>
   </a>
 </p>
-=
+
 > Based off of [digitros' starter code](https://github.com/digitros/nextjs-fastapi)
 
 ### **Bring your own OpenAI API key** 🔐
